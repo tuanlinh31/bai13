@@ -4,14 +4,15 @@ import java.security.PublicKey;
 
 public class Circle implements Shape{
     public String name;
-    public float rad;
+    public double rad;
     public Circle(){
 
     }
-    public Circle(float rad) {
+    public Circle(double rad) {
+
         this.rad = rad;
     }
-    public Circle(String name, float rad){
+    public Circle(String name, double rad){
         this.rad = rad;
         this.name = name;
     }

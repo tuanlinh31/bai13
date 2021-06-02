@@ -23,5 +23,11 @@ public class Application {
             System.out.println("dien tich hinh vuong "+ sq.calculateArea(witdh));
         }
 
+        Square sq1 = new Square(3);
+        Square sq2 = new Square("hinh vuong",3);
+
+        Circle c1 = new Circle(3);
+        Circle c2 = new Circle("hinh tron",3);
+
     }
 }

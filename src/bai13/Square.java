@@ -2,15 +2,15 @@ package bai13;
 
 public class Square implements Shape{
     public String name;
-    public float width;
+    public double width;
     public Square(){
 
     }
-    public Square(float rad) {
-        this.width = rad;
+    public Square(float witdh) {
+        this.width = witdh;
     }
-    public Square(String name, float rad){
-        this.width = rad;
+    public Square(String name, double witdh){
+        this.width = witdh;
         this.name = name;
     }
     public String getName() {
@@ -21,7 +21,7 @@ public class Square implements Shape{
         this.name = name;
     }
 
-    public float getWidth() {
+    public double getWidth() {
         return width;
     }
 
