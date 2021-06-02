@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c410b624-79e3-4b77-8013-867fcfe3a40f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/ManagePhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/ManagePhoneBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/T2011E_Project/Bai9/PhoneBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai11/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11/MyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/FGperson.java" beforeDir="false" afterPath="$PROJECT_DIR$/entity/FGperson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/VNperson.java" beforeDir="false" afterPath="$PROJECT_DIR$/entity/VNperson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/IElectricity.java" beforeDir="false" afterPath="$PROJECT_DIR$/logic/IElectricity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9/Bai9/PhoneCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9/Bai9/PhoneCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9/ManagePhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9/ManagePhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai10_chua/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai10_chua/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai10_chua/entity/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai10_chua/entity/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai10_chua/logic/INews.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai10_chua/logic/INews.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1tOShZEh912uQzqx074cU10Xt7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c410b624-79e3-4b77-8013-867fcfe3a40f" name="Default Changelist" comment="" />
+      <created>1622638763077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622638763077</updated>
+      <workItem from="1622638764503" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
