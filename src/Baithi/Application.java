@@ -1,74 +1,8 @@
 package Baithi;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Hotel {
-    private String name;
-    private String location;
-    private String ownername;
-    ArrayList <Hotel> arr = new ArrayList();
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getLocation() {
-        return location;
-    }
-
-    public void setLocation(String location) {
-        this.location = location;
-    }
-
-    public String getOwnername() {
-        return ownername;
-    }
-
-    public void setOwnername(String ownername) {
-        this.ownername = ownername;
-    }
-
-    public void insertHotel(String name, String location, String ownername){
-        Hotel h = new Hotel();
-        h.name = name;
-        h.location = location;
-        h.ownername = ownername;
-        arr.add(h);
-    }
-
-    public void displayDetails(String ownername){
-
-        boolean b = false;
-        for(int i = 0; i< arr.size();i++){
-            Hotel p = arr.get(i);
-            if(p.ownername.equals(ownername)){
-                b = true;
-                System.out.println("Name of hotel: " +p.name);
-                System.out.println("Location of hotel: " +p.location);
-                System.out.println("Owner name of hotel: " +p.ownername);
-            }else{
-
-            }
-
-        }
-        if(!b){
-            System.out.println("Khong co chu so huu nao ten: " +ownername);
-        }
-    }
-    public Hotel() {
-    }
-
-    public Hotel(String name, String location, String ownername) {
-        this.name = name;
-        this.location = location;
-        this.ownername = ownername;
-    }
-
+public class Application {
     public static void main(String[] args) {
         Hotel h = new Hotel();
         Scanner sc = new Scanner(System.in);
@@ -129,3 +63,4 @@ public class Hotel {
 
     }
 }
+
