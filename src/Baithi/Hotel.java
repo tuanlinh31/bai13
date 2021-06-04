@@ -47,12 +47,13 @@ public class Hotel {
 
     public static void main(String[] args) {
         Hotel h = new Hotel();
+        Scanner sc = new Scanner(System.in);
         int count = 0;
         h.insertHotel("maivilla","hanoi","linh");
         h.insertHotel("songhong","ho chi minh","long");
         h.insertHotel("baoson","da nang","quynh");
         h.insertHotel("hoabinhresort","da lat","quy");
-        h.insertHotel("Somerset","nha trang","khanh");
+        h.insertHotel("Somerset","nha trang","le nguyen khanh");
         h.insertHotel("Daewoo","can tho","thang");
         h.insertHotel("Aria Boutique","hoi an","viet");
         h.insertHotel("Riverside","hoi an","hai anh");
@@ -60,8 +61,18 @@ public class Hotel {
         h.insertHotel("Allegro","hoi an","huong");
 
         do{
+            
+   //truong hop cho quan ly nhap
+//            System.out.println("nhap vao ten hotel: ");
+//            String name = sc.nextLine();
+//            System.out.println("nhap vao dia diem: ");
+//            String location = sc.nextLine();
+//            System.out.println("nhap vao chu so huu: ");
+//            String ownername = sc.nextLine();
+//            h.insertHotel(name,location,ownername);
+
             count++;
-            Scanner sc = new Scanner(System.in);
+
             System.out.println("nhap vao ten chu so huu khach san: ");
             String own = sc.nextLine();
             h.displayDetails(own);
