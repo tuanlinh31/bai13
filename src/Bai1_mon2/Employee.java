@@ -12,6 +12,13 @@ public class Employee {
     ArrayList<Employee> arr = new ArrayList();
     ArrayList salar = new ArrayList();
 
+    public Employee(int i, String nguyen_van_ti, float v, float v1) {
+    }
+
+    public Employee() {
+
+    }
+
 
     public int getId() {
         return id;
