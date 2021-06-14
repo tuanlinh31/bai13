@@ -11,11 +11,11 @@ public class ObjectFileDemo {
     public static void main(String[] args) {
         Book b = new Book();
         b.setId(1);
-        b.setName("Nguyen Tuan");
+        b.setName("Java 1");
         b.setAuthor("Nguyen Tuan");
         Book b2 = new Book();
         b.setId(2);
-        b.setName("Nguyen Tuan");
+        b.setName("Java2");
         b.setAuthor("Nguyen Tuan");
 
         List<Book> lsBook = new ArrayList<>();
