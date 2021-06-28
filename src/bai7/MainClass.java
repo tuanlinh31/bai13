@@ -18,7 +18,7 @@ public class MainClass {
         j.setVisible(true);
 
         JButton b1 = new JButton("Add new Employee");
-        b1.setBounds(100, 200, 150, 50);
+        b1.setBounds(100, 50, 150, 50);
         b1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -30,7 +30,7 @@ public class MainClass {
         j.add(b1);
 
         JButton b2 = new JButton("List Employee");
-        b2.setBounds(100, 300, 150, 30);
+        b2.setBounds(100, 125, 150, 30);
         b2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -43,7 +43,7 @@ public class MainClass {
         j.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         JButton b3 = new JButton("Sua Sinh Vien");
-        b3.setBounds(100, 400, 150, 50);
+        b3.setBounds(100, 190, 150, 50);
         b3.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -55,7 +55,7 @@ public class MainClass {
         j.add(b3);
 
         JButton b4 = new JButton("Xoa Sinh Vien");
-        b4.setBounds(100, 500, 150, 50);
+        b4.setBounds(100, 255, 150, 50);
         b4.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
