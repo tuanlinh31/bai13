@@ -30,7 +30,7 @@ public class MainClass {
         j.add(b1);
 
         JButton b2 = new JButton("List Employee");
-        b2.setBounds(100, 125, 150, 30);
+        b2.setBounds(100, 125, 150, 50);
         b2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
