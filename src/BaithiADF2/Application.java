@@ -30,16 +30,19 @@ public class Application {
                     String email = s.nextLine();
                     System.out.println("nhap vao phone: ");
                     String phone = s.nextLine();
-                    cus.addCustomer(name,email,phone);
+//                    cus.addCustomer(name,email,phone);
+                    cus.addCustomerHM(name,email,phone);
                     break;
                 case 2:
                     System.out.println("nhap vao ten muon tim kiem: ");
                     s.nextLine();
                     String name1 = s.nextLine();
-                    cus.findCustomer(name1);
+//                    cus.findCustomer(name1);
+                    cus.findCustomerHM(name1);
                     break;
                 case 3:
-                    cus.display();
+//                    cus.display();
+                    cus.displayHM();
                     break;
 
             }
